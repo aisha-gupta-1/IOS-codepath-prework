@@ -2,9 +2,9 @@
 
 Submitted by: **Aisha Gupta**
 
-**Viven* is an app that is designed for curly-haired individuals so that they can discover personalized hair products through a tagging system, can create custom hair routines, and connect with the curly-haired community!
+*Viven* is an app that is designed for curly-haired individuals so that they can discover personalized hair products through a tagging system, can create custom hair routines, and connect with the curly-haired community!
 
-Time spent: **6** hours spent in total
+Time spent: **7** hours spent in total
 
 ## Required Features
 

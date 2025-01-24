@@ -1,10 +1,10 @@
-# Prework - *Name of App Here*
+# Prework - *Viven*
 
 Submitted by: **Aisha Gupta**
 
-**Name of your app** is an app that... [TODO] 
+**Viven* is an app that is designed for curly-haired individuals so that they can discover personalized hair products through a tagging system, can create custom hair routines, and connect with the curly-haired community!
 
-Time spent: **X** hours spent in total
+Time spent: **6** hours spent in total
 
 ## Required Features
 
@@ -30,7 +30,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
     - The view where you can see your lists and scheduled events is good for a hollistic view of your tasks
     - The ability to add descriptions or labels to individual tasks
 
--Schedules (AC Transit App)
+- Schedules (AC Transit App)
     - You can see all the bus lines and stops from this, so if you are familier with the bus lines you can easily access real timings and locations of the buses
     - Favorting the lines you use the most often
     - Automatic tracking of the stops near you
@@ -51,7 +51,7 @@ The features I implemented are:
 - Button to randomy change the background color
 - One Button to randomy change the color of the label texts
 
-The biggest challenge was figuring out how to instantiate the labels so that I could change the color of the text. After some googling and looking at forums, I figured out how to create a variable for the labeles, and then used the same function for the backgrounder changer. 
+The biggest challenge was figuring out how to instantiate the labels so that I could change the color of the text. After some googling and looking at forums, I figured out how to create a variable for the labels, and then used the same function for the backgrounder changer. 
 
 
 

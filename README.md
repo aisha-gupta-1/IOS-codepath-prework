@@ -15,7 +15,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here is a video walkthrough of the features that were implemented. Click on th GIF below to view the whole video! 
+Here is a video walkthrough of the features that were implemented. The first clip is a GIF, and the second is an embdded link to a Loom video, per the instructions in the README template.
 
 ![](https://i.imgur.com/xE8hfQ4.gif)
 

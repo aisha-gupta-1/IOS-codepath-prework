@@ -17,6 +17,8 @@ The following **required** functionality is completed:
 
 Here is a video walkthrough of the features that were implemented. Click on th GIF below to view the whole video! 
 
+![](https://i.imgur.com/xE8hfQ4.gif)
+
 <div>
     <a href="https://www.loom.com/share/6e86caaf34a94978b3393cf97d44e9fb">
     </a>
